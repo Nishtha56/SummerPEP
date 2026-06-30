@@ -12,11 +12,13 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nishtha56/SummerPEP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,9 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 <!---LeetCode Topics End-->
