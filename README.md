@@ -6,6 +6,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nishtha56/SummerPEP/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -64,4 +65,12 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
