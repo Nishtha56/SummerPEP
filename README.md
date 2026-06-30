@@ -41,6 +41,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nishtha56/SummerPEP/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/Nishtha56/SummerPEP/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
 ## Recursion
@@ -76,6 +77,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Nishtha56/SummerPEP/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
