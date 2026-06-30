@@ -25,4 +25,9 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nishtha56/SummerPEP/tree/main/0048-rotate-image/) | Medium |
+| [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
