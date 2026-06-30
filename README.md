@@ -11,6 +11,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Nishtha56/SummerPEP/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/SummerPEP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -85,6 +86,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0069-sqrtx](https://github.com/Nishtha56/SummerPEP/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Nishtha56/SummerPEP/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
