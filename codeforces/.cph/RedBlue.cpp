@@ -36,5 +36,6 @@ int main(){
 
         cout<<(r+c);
         cout<<endl;
+        
     }
 }
