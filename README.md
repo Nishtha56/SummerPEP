@@ -10,6 +10,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Nishtha56/SummerPEP/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -58,6 +59,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Nishtha56/SummerPEP/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
