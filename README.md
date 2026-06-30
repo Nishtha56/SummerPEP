@@ -8,6 +8,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0048-rotate-image](https://github.com/Nishtha56/SummerPEP/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/SummerPEP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -75,6 +76,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
