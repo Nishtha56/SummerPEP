@@ -15,8 +15,8 @@ public:
         vector<vector<int>> ans;
         queue<pair<TreeNode*, pair<int, int>>> q;    // .push({node, vertex, level});
         //here ordered matters so we use map
-        //multiset used for sorting and it allows duplicate value
-        map<int, map<int, multiset<int>>> mp;
+     
+        map<int, map<int, vector<int>>> mp;
 
         q.push({root, {0, 0}});
         while(!q.empty()){
@@ -27,7 +27,7 @@ public:
             int vertex=a.second.first;
             int level=a.second.second;
 
-            mp[vertex][level].insert(node->val);
+            mp[vertex][level].push_back(node->val);
 
             if(node->left){
                 q.push({node->left, {vertex-1, level+1}});
@@ -42,7 +42,8 @@ public:
         for(auto it : mp){
             vector<int> col;
             for(auto j : it.second){
-                col.insert(col.end(), j.second.begin(), j.second.end());//multiset ke saare elements ko vector ke end mein insert karti hai
+                sort(j.second.begin(), j.second.end());
+                col.insert(col.end(), j.second.begin(), j.second.end());
             }
             ans.push_back(col);
         }
