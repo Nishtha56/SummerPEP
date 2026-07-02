@@ -127,10 +127,12 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -139,5 +141,10 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
