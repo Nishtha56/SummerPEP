@@ -31,6 +31,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
@@ -81,6 +82,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 ## Binary Search
@@ -122,4 +124,20 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
