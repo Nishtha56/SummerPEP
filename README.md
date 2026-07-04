@@ -134,10 +134,12 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +149,12 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
