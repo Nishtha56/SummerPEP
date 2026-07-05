@@ -16,6 +16,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/SummerPEP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Nishtha56/SummerPEP/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nishtha56/SummerPEP/tree/main/0724-find-pivot-index/) | Easy |
@@ -47,6 +48,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Nishtha56/SummerPEP/tree/main/0419-battleships-in-a-board/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0419-battleships-in-a-board](https://github.com/Nishtha56/SummerPEP/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
