@@ -1,97 +1,102 @@
+
 class Solution {
 public:
-    const int n = 26;
-    vector<vector<int>> es;
-    int ans = n * 2;
-    vector<int> d;
-    vector<int> ind;
-    vector<int> outd;
-    vector<vector<int>> res;
-
-    int getindex(int y, int dy)
-    {
-        if (dy == 2) return y + n;
-        return y;
-    }
-
-    bool top(vector<int>& cnt, int tt)
-    {
-        for (int i = 0; i < n + n; i++) d[i] = 0;
-        for (auto& e : es)
-            for (auto y : e)
-                d[getindex(y, cnt[y])]++;
-
-        int cur = tt;
-        deque<int> q;
-        for (int i = 0; i < n; i++)
-        {
-            if (cnt[i] == 0) continue;
-            int j = i + n;
-            if (d[i] == 0) q.push_back(i);
-            if (cnt[i] == 2 && d[j] == 0) q.push_back(j);
-        }
-
-        while (!q.empty())
-        {
-            auto c = q.front();
-            q.pop_front();
-            cur--;
-            if (c >= n) continue;
-            int x = c;
-            for (auto& y1 : es[x])
-            {
-                int y = getindex(y1, cnt[y1]);
-                d[y]--;
-                if (d[y] == 0) q.push_back(y);
+    vector<vector<int>> supersequences(vector<string>& words) {
+        int present_mask = 0;
+        int self_loop_mask = 0;
+        int adj[26] = {0};
+        
+        // Step 1: Build the graph and identify self-loops (e.g., "aa")
+        for (const string& w : words) {
+            int u = w[0] - 'a';
+            int v = w[1] - 'a';
+            present_mask |= (1 << u);
+            present_mask |= (1 << v);
+            if (u == v) {
+                self_loop_mask |= (1 << u);
+            } else {
+                adj[u] |= (1 << v);
             }
         }
-        return (cur == 0);
-    }
-
-    void dfs(int i, vector<int>& cnt, int t)
-    {
-        if (i >= cnt.size())
-        {
-            if (t > ans) return;
-            bool valid = top(cnt, t);
-            if (valid == false) return;
-            if (t < ans)
-            {
-                ans = t;
-                res.clear();
-            } 
-            res.push_back(cnt);
-            return;
+        
+        // Step 2: Extract unique characters present in the input
+        vector<int> chars;
+        for (int i = 0; i < 26; ++i) {
+            if (present_mask & (1 << i)) {
+                chars.push_back(i);
+            }
         }
-        int cur = cnt[i];
-        int mx = 0;
-        if (ind[i] > 0) mx++;
-        if (outd[i] > 0) mx++;
-        if (mx == 0) return dfs(i + 1, cnt, t);
-        for (int j = 1; j <= mx; j++) 
-        {
-            cnt[i] = j;
-            dfs(i + 1, cnt, t + j);
+        
+        int n = chars.size();
+        int min_s_size = 1e9;
+        vector<int> valid_s_masks;
+        
+        // Step 3: Iterate through all subsets of characters using bitmasks
+        int total_subsets = 1 << n;
+        for (int mask = 0; mask < total_subsets; ++mask) {
+            int s_mask = 0;
+            for (int i = 0; i < n; ++i) {
+                if (mask & (1 << i)) {
+                    s_mask |= (1 << chars[i]);
+                }
+            }
+            
+            // A valid duplicated subset MUST contain all characters that have self-loops
+            if ((s_mask & self_loop_mask) != self_loop_mask) {
+                continue;
+            }
+            
+            // Check if the remaining characters (frequency 1) form a DAG
+            int rem_mask = present_mask & ~s_mask;
+            int current = rem_mask;
+            bool is_dag = true;
+            
+            // Bitwise Kahn's Algorithm for ultra-fast cycle detection
+            while (current > 0) {
+                int all_dest = 0;
+                int temp = current;
+                while (temp > 0) {
+                    int i = __builtin_ctz(temp); // Get the lowest set bit index
+                    all_dest |= adj[i];
+                    temp &= temp - 1;            // Clear the lowest set bit
+                }
+                
+                // Nodes with 0 indegree within the current remaining subgraph
+                int indeg_zero = current & ~all_dest;
+                if (indeg_zero == 0) {
+                    is_dag = false; // Cycle detected
+                    break;
+                }
+                current ^= indeg_zero; // Remove nodes with 0 indegree
+            }
+            
+            // Step 4: Record minimal valid subsets (Feedback Vertex Sets)
+            if (is_dag) {
+                int size = __builtin_popcount(s_mask);
+                if (size < min_s_size) {
+                    min_s_size = size;
+                    valid_s_masks.clear();
+                    valid_s_masks.push_back(s_mask);
+                } else if (size == min_s_size) {
+                    valid_s_masks.push_back(s_mask);
+                }
+            }
         }
-        cnt[i] = cur;
-        return;
-    }
-    
-    vector<vector<int>> supersequences(vector<string>& ws) {
-        ind = vector<int>(n, 0);
-        outd = vector<int>(n, 0);
-        d = vector<int>(n * 2, 0);
-        es.resize(n);
-        for (auto& w : ws)
-        {
-            int x = w[0] - 'a';
-            int y = w[1] - 'a';
-            outd[x]++;
-            ind[y]++;
-            es[x].push_back(y);
+        
+        // Step 5: Construct frequency arrays for the shortest supersequences
+        vector<vector<int>> result;
+        for (int s_mask : valid_s_masks) {
+            vector<int> freq(26, 0);
+            for (int i = 0; i < 26; ++i) {
+                if (s_mask & (1 << i)) {
+                    freq[i] = 2; // Character is duplicated to break cycles
+                } else if (present_mask & (1 << i)) {
+                    freq[i] = 1; // Character appears exactly once
+                }
+            }
+            result.push_back(freq);
         }
-        vector<int> cnt(n, 0);
-        dfs(0, cnt, 0);
-        return res;
+        
+        return result;
     }
 };
