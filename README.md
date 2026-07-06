@@ -136,6 +136,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Nishtha56/SummerPEP/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Nishtha56/SummerPEP/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1046-last-stone-weight](https://github.com/Nishtha56/SummerPEP/tree/main/1046-last-stone-weight/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -175,6 +176,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Nishtha56/SummerPEP/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Nishtha56/SummerPEP/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [0997-find-the-town-judge](https://github.com/Nishtha56/SummerPEP/tree/main/0997-find-the-town-judge/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
@@ -194,4 +196,8 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Nishtha56/SummerPEP/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 <!---LeetCode Topics End-->
