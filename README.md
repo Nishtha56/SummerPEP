@@ -171,6 +171,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Nishtha56/SummerPEP/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nishtha56/SummerPEP/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -178,6 +179,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0785-is-graph-bipartite](https://github.com/Nishtha56/SummerPEP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Nishtha56/SummerPEP/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [0997-find-the-town-judge](https://github.com/Nishtha56/SummerPEP/tree/main/0997-find-the-town-judge/) | Easy |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nishtha56/SummerPEP/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 ## String
