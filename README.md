@@ -33,6 +33,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0997-find-the-town-judge](https://github.com/Nishtha56/SummerPEP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0162-find-peak-element](https://github.com/Nishtha56/SummerPEP/tree/main/0162-find-peak-element/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -181,6 +184,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nishtha56/SummerPEP/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +194,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Nishtha56/SummerPEP/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
