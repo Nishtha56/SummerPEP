@@ -219,6 +219,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Nishtha56/SummerPEP/tree/main/1291-sequential-digits/) | Medium |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
