@@ -28,6 +28,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nishtha56/SummerPEP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -88,6 +89,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nishtha56/SummerPEP/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
@@ -203,6 +205,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
