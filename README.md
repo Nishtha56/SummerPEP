@@ -67,12 +67,14 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0048-rotate-image](https://github.com/Nishtha56/SummerPEP/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Nishtha56/SummerPEP/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Nishtha56/SummerPEP/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0233-number-of-digit-one](https://github.com/Nishtha56/SummerPEP/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0053-maximum-subarray/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Nishtha56/SummerPEP/tree/main/0233-number-of-digit-one/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Queue
