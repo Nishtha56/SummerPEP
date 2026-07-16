@@ -41,6 +41,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +82,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +94,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Nishtha56/SummerPEP/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +266,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
