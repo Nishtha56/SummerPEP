@@ -49,6 +49,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +187,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nishtha56/SummerPEP/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
