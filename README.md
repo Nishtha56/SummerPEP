@@ -76,6 +76,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
