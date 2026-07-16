@@ -26,6 +26,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Nishtha56/SummerPEP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/Nishtha56/SummerPEP/tree/main/1046-last-stone-weight/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -124,6 +125,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -245,4 +247,8 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
