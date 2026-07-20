@@ -31,6 +31,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Nishtha56/SummerPEP/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -63,11 +64,13 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0407-trapping-rain-water-ii](https://github.com/Nishtha56/SummerPEP/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/SummerPEP/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Nishtha56/SummerPEP/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Nishtha56/SummerPEP/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
