@@ -237,6 +237,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0520-detect-capital](https://github.com/Nishtha56/SummerPEP/tree/main/0520-detect-capital/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
