@@ -83,6 +83,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0233-number-of-digit-one](https://github.com/Nishtha56/SummerPEP/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha56/SummerPEP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
@@ -247,6 +248,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha56/SummerPEP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
