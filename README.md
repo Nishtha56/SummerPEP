@@ -42,6 +42,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nishtha56/SummerPEP/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha56/SummerPEP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -88,6 +89,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha56/SummerPEP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha56/SummerPEP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -254,6 +256,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha56/SummerPEP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha56/SummerPEP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
