@@ -86,6 +86,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nishtha56/SummerPEP/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha56/SummerPEP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
