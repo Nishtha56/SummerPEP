@@ -31,6 +31,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0941-valid-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/0941-valid-mountain-array/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Nishtha56/SummerPEP/tree/main/0997-find-the-town-judge/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nishtha56/SummerPEP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nishtha56/SummerPEP/tree/main/1046-last-stone-weight/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -162,6 +163,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nishtha56/SummerPEP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
