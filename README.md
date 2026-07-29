@@ -19,6 +19,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/SummerPEP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Nishtha56/SummerPEP/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/Nishtha56/SummerPEP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/SummerPEP/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -118,12 +119,14 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Nishtha56/SummerPEP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/SummerPEP/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Nishtha56/SummerPEP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nishtha56/SummerPEP/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -155,6 +158,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0162-find-peak-element](https://github.com/Nishtha56/SummerPEP/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishtha56/SummerPEP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Nishtha56/SummerPEP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -174,6 +178,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0053-maximum-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Nishtha56/SummerPEP/tree/main/0233-number-of-digit-one/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/Nishtha56/SummerPEP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/Nishtha56/SummerPEP/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
