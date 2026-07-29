@@ -99,6 +99,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha56/SummerPEP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishtha56/SummerPEP/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -147,6 +148,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -266,6 +268,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nishtha56/SummerPEP/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -294,10 +297,12 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
