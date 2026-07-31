@@ -60,6 +60,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishtha56/SummerPEP/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -125,6 +126,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0410-split-array-largest-sum](https://github.com/Nishtha56/SummerPEP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nishtha56/SummerPEP/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0997-find-the-town-judge](https://github.com/Nishtha56/SummerPEP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -269,6 +272,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nishtha56/SummerPEP/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nishtha56/SummerPEP/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -304,6 +308,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Number Theory
