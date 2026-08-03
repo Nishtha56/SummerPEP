@@ -89,6 +89,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nishtha56/SummerPEP/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Nishtha56/SummerPEP/tree/main/0069-sqrtx/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Nishtha56/SummerPEP/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Nishtha56/SummerPEP/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
@@ -268,6 +269,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Nishtha56/SummerPEP/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0520-detect-capital](https://github.com/Nishtha56/SummerPEP/tree/main/0520-detect-capital/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
