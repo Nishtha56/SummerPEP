@@ -49,6 +49,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha56/SummerPEP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Nishtha56/SummerPEP/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishtha56/SummerPEP/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Nishtha56/SummerPEP/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -157,6 +159,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/Nishtha56/SummerPEP/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
