@@ -35,6 +35,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1046-last-stone-weight](https://github.com/Nishtha56/SummerPEP/tree/main/1046-last-stone-weight/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Nishtha56/SummerPEP/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -99,6 +100,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nishtha56/SummerPEP/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha56/SummerPEP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
@@ -140,6 +142,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nishtha56/SummerPEP/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Nishtha56/SummerPEP/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -196,6 +199,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0845-longest-mountain-in-array](https://github.com/Nishtha56/SummerPEP/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
@@ -327,4 +331,16 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
