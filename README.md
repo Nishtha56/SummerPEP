@@ -44,6 +44,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nishtha56/SummerPEP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishtha56/SummerPEP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nishtha56/SummerPEP/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
@@ -81,6 +82,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Nishtha56/SummerPEP/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishtha56/SummerPEP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishtha56/SummerPEP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
@@ -343,4 +346,8 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Nishtha56/SummerPEP/tree/main/1140-stone-game-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishtha56/SummerPEP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
