@@ -92,6 +92,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Nishtha56/SummerPEP/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Nishtha56/SummerPEP/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Nishtha56/SummerPEP/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Nishtha56/SummerPEP/tree/main/0168-excel-sheet-column-title/) | Easy |
