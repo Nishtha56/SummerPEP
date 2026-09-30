@@ -16,6 +16,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0162-find-peak-element](https://github.com/Nishtha56/SummerPEP/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishtha56/SummerPEP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Nishtha56/SummerPEP/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Nishtha56/SummerPEP/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/SummerPEP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -58,6 +59,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Nishtha56/SummerPEP/tree/main/0016-3sum-closest/) | Medium |
+| [0268-missing-number](https://github.com/Nishtha56/SummerPEP/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -100,6 +102,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0171-excel-sheet-column-number](https://github.com/Nishtha56/SummerPEP/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Nishtha56/SummerPEP/tree/main/0189-rotate-array/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Nishtha56/SummerPEP/tree/main/0233-number-of-digit-one/) | Hard |
+| [0268-missing-number](https://github.com/Nishtha56/SummerPEP/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Nishtha56/SummerPEP/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -157,6 +160,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Nishtha56/SummerPEP/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha56/SummerPEP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -178,6 +182,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Nishtha56/SummerPEP/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishtha56/SummerPEP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Nishtha56/SummerPEP/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Nishtha56/SummerPEP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishtha56/SummerPEP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -297,6 +302,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Nishtha56/SummerPEP/tree/main/0268-missing-number/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha56/SummerPEP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
