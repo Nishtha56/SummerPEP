@@ -253,6 +253,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Nishtha56/SummerPEP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/Nishtha56/SummerPEP/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Nishtha56/SummerPEP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Nishtha56/SummerPEP/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -290,6 +291,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Nishtha56/SummerPEP/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Nishtha56/SummerPEP/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Nishtha56/SummerPEP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0520-detect-capital](https://github.com/Nishtha56/SummerPEP/tree/main/0520-detect-capital/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
@@ -359,4 +361,8 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishtha56/SummerPEP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Nishtha56/SummerPEP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
