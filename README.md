@@ -42,6 +42,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1260-shift-2d-grid](https://github.com/Nishtha56/SummerPEP/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishtha56/SummerPEP/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishtha56/SummerPEP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nishtha56/SummerPEP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -64,6 +65,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/SummerPEP/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/SummerPEP/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishtha56/SummerPEP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -132,6 +134,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0283-move-zeroes](https://github.com/Nishtha56/SummerPEP/tree/main/0283-move-zeroes/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Nishtha56/SummerPEP/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Nishtha56/SummerPEP/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishtha56/SummerPEP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
@@ -190,6 +193,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nishtha56/SummerPEP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Nishtha56/SummerPEP/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishtha56/SummerPEP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
