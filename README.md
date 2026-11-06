@@ -48,6 +48,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishtha56/SummerPEP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/Nishtha56/SummerPEP/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nishtha56/SummerPEP/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
@@ -68,6 +69,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishtha56/SummerPEP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nishtha56/SummerPEP/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Nishtha56/SummerPEP/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishtha56/SummerPEP/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -170,6 +172,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0997-find-the-town-judge](https://github.com/Nishtha56/SummerPEP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/SummerPEP/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1943-describe-the-painting](https://github.com/Nishtha56/SummerPEP/tree/main/1943-describe-the-painting/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Nishtha56/SummerPEP/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -369,4 +372,8 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Nishtha56/SummerPEP/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2747-count-zero-request-servers](https://github.com/Nishtha56/SummerPEP/tree/main/2747-count-zero-request-servers/) | Medium |
 <!---LeetCode Topics End-->
