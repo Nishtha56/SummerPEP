@@ -55,6 +55,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha56/SummerPEP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nishtha56/SummerPEP/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -221,6 +222,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishtha56/SummerPEP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Nishtha56/SummerPEP/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Nishtha56/SummerPEP/tree/main/3704-count-no-zero-pairs-that-sum-to-n/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
