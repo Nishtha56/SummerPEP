@@ -51,6 +51,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [2747-count-zero-request-servers](https://github.com/Nishtha56/SummerPEP/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nishtha56/SummerPEP/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishtha56/SummerPEP/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nishtha56/SummerPEP/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Nishtha56/SummerPEP/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha56/SummerPEP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha56/SummerPEP/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -228,10 +229,12 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nishtha56/SummerPEP/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/SummerPEP/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nishtha56/SummerPEP/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +280,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishtha56/SummerPEP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nishtha56/SummerPEP/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,4 +382,13 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/Nishtha56/SummerPEP/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nishtha56/SummerPEP/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nishtha56/SummerPEP/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nishtha56/SummerPEP/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
