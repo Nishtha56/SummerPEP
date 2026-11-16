@@ -98,6 +98,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Nishtha56/SummerPEP/tree/main/0054-spiral-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Nishtha56/SummerPEP/tree/main/1260-shift-2d-grid/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nishtha56/SummerPEP/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishtha56/SummerPEP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0301-remove-invalid-parentheses](https://github.com/Nishtha56/SummerPEP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0520-detect-capital](https://github.com/Nishtha56/SummerPEP/tree/main/0520-detect-capital/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nishtha56/SummerPEP/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nishtha56/SummerPEP/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nishtha56/SummerPEP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
