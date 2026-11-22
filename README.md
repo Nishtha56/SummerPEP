@@ -312,6 +312,7 @@ It consist various qus that is present in Leetcode, GFG and Codeforces
 | [0301-remove-invalid-parentheses](https://github.com/Nishtha56/SummerPEP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0520-detect-capital](https://github.com/Nishtha56/SummerPEP/tree/main/0520-detect-capital/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Nishtha56/SummerPEP/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nishtha56/SummerPEP/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nishtha56/SummerPEP/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2719-count-of-integers](https://github.com/Nishtha56/SummerPEP/tree/main/2719-count-of-integers/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nishtha56/SummerPEP/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
